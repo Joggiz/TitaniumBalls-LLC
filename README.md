@@ -2,6 +2,8 @@
 Trading of commodity derivatives
 
 For a quick intro, watch https://www.youtube.com/watch?v=O03erV5nYXA
+Read: https://tpq.io/p/rough_volatility_with_python.html
+
 
 Summary:
 
